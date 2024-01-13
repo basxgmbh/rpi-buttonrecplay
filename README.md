@@ -1,6 +1,13 @@
 # rpi-buttonrecplay
 Audio Recorder/Player for Raspberry Pi with 3 buttons
 
+## Idea
+This script was developed for an exhibition. The main idea is: 
+- A visitor can listen to a sample text (blue botton). Pauses/resumes when same button is pressed again.
+- Then the visitor records tries to record the same text, by pressing the red button.
+- Finally the recording can be listened by pressing the yellow button.
+
+## Copyright
 Copyright: 2024 Beat Schnyder <schnyder@basx.ch>
 
 License: BSD-3
